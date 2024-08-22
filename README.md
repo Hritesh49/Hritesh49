@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🍀Hello!!;🍀+This+is+Hritesh+Roshan+_+_&width=1000&height=200&size=40&color="A3FF00"&background="4E4870"&center=true&vCenter=true&duration=3000&font=Jura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🍀Hello!!;🍀+This+is+Hritesh+Roshan+_&width=1000&height=200&size=40&color="A3FF00"&background="4E4870"&center=true&vCenter=true&duration=3000&font=Jura)](https://git.io/typing-svg)
 
 <h2 align="center">🍀About Me!</h2>
 
-### I am a second-year student pursuing a bachelor's degree in Electronics & Telecommunication Engineering at Veer Surendra Sai University of Technology, Burla.Hello! I'm a dynamic web developer skilled in React.js, Node.js, MongoDB, and more. Expert in design with Figma and versed in Git, GitHub, C, C++, and JavaScript. Proficient in Tailwind CSS, HTML, CSS, and Material UI for sleek interfaces. Fast learner, highly adaptable, and committed to delivering excellence. Let's craft exceptional digital experiences together!
+### I am a pre-final year student pursuing a bachelor's degree in Electronics & Telecommunication Engineering at Veer Surendra Sai University of Technology, Burla.Hello! I'm a dynamic web developer skilled in React.js, Node.js, MongoDB, and more. Expert in design with Figma and versed in Git, GitHub, C, C++, and JavaScript. Proficient in Tailwind CSS, HTML, CSS, and Material UI for sleek interfaces. Fast learner, highly adaptable, and committed to delivering excellence. Let's craft exceptional digital experiences together!
 
 <br>
 
